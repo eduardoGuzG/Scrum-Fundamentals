@@ -8,4 +8,4 @@ Además, esto es todo lo que se necesita para poder aprobar esta certificación.
 Aquí listare la fuente principal en la cual me basé para hacer este resumen.
 - [Scrum Study Scrum fundamentals (2021)](https://www.scrumstudy.com/certification/scrum-fundamentals-certified)
 
-También pueden contactarse con la autor del proyecto al correo [edoguzgo@gmail.com](mailto:edoguzgo@gmail.com)
+También pueden contactarse con el autor del proyecto vía correo [__edoguzgo@gmail.com__](mailto:edoguzgo@gmail.com)
