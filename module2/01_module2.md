@@ -45,4 +45,4 @@ También delinea las responsabilidades del Propietario del Producto y de la orga
 Los principios de Scrum son las directrices básicas para aplicar el marco de Scrum y deben ser utilizados obligatoriamente en todos los proyectos de Scrum. 
 Sin embargo, los aspectos y procesos de Scrum pueden modificarse para satisfacer los requisitos del proyecto o de la organización. 
 
-#### [__Procesos de Scrum__](03_module2.md)
+#### [__Aspectos de Scrum__](02_module2.md)

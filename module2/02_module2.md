@@ -108,4 +108,4 @@ Con base a dos factores:
 
 
 
-#### [__Aspectos de Scrum__](03_module2.md)
+#### [__Procesos de Scrum__](03_module2.md)
