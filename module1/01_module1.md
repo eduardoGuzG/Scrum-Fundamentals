@@ -17,4 +17,4 @@ Es interesante notar que la practica de ágil no se restringe al desarrollo de s
 Puede ser usado en cualquier proyecto sin importar su complejidad.
 
 
-#### [__Pero ¿Dónde surge todo esto?__](module1/02_module1.md)
+#### [__Pero ¿Dónde surge todo esto?__](02_module1.md)
