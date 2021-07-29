@@ -56,7 +56,7 @@ Los roles no centrales pueden incluir los siguientes:
 		El patrocinador es también el stakeholder a quien toods le deben rendir cuentas al final.
 
 	2. Vendedores.
-    
+
 	Los vendedores incluyen a individuos u organizaciones externas que ofrecen productos y servicios que no están dentro de las competencias 
 	básicas de la organización del proyecto.
 	3. Scrum Guidance Body.
@@ -108,15 +108,4 @@ Con base a dos factores:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-#### [__Procesos de Scrum__](03_module2.md)
+#### [__Aspectos de Scrum__](03_module2.md)
