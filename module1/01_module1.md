@@ -1,4 +1,4 @@
-# Módulo 1. Información general de Ágil
+# Módulo 1. Información general de Ágil.
 
 ## 1.1 Descripción de Ágil.
 

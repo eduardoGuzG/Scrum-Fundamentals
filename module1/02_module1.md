@@ -1,4 +1,4 @@
-# Módulo 1. Información general de Ágil
+# Módulo 1. Información general de Ágil.
 
 ## 1.2 Manifiesto Ágil.
 En febrero del 2001, un grupo de 17 gurús de la informática, desarrolladores de software y administradores, se reunieron para discutir los metodos del desarrollo de software ligero.
@@ -35,4 +35,4 @@ vida de desarrollo de producto en vez de enfatizar el seguimiento de planes form
 probablemente con información obsoleta.
 
 
-#### [__Principios del Manifiesto__](module1/03_module1.md)
+#### [__Principios del Manifiesto__](03_module1.md)
