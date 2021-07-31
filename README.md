@@ -1,8 +1,8 @@
 ## Fundamentos de Scrum
-Este resumen nace mientras cursaba la certificación en _Scrum Fundamentals_ en _ScrumStudy_
-Con el fin de poder entender y memorizar de una forma más fácil una cantidad importante de información.
+Este resumen nace mientras cursaba la certificación en _Scrum Fundamentals_ en _ScrumStudy_, con el fin de poder entender y memorizar de una forma más fácil una cantidad importante de información.
 Además, esto es todo lo que se necesita para poder aprobar esta certificación.
 
+[__Empezar__](00_index.md)
 ## Fuentes
 
 Aquí listare la fuente principal en la cual me basé para hacer este resumen.
