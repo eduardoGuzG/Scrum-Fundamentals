@@ -14,7 +14,7 @@ Este resumen constara de dos importantes módulos, en los cuales se detallan los
 
 - [2.1 Principios de Scrum.](module2/01_module2.md)
 - [2.2 Aspectos de Scrum.](module2/02_module2.md)
-- [2.3 Procesos de Scrum (En edición).](module2/03_module2.md)
+- [2.3 Procesos de Scrum.](module2/03_module2.md)
 - [2.4 Scrum vs La gestión Tradicional de Proyectos.](module2/04_module2.md)
 
 #### [__Módulo 1 (Iniciando en Ágil)__](module1/01_module1.md)
