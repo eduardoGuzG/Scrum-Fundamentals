@@ -9,14 +9,14 @@ El manifiesto Ágil está compuesto por 12 principios:
 2. Aceptamos que los requisitos cambien, incluso en etapas tardías del desarrollo. Los procesos Ágiles aprovechan
    el cambio para proporcionar ventaja competitiva al cliente.
 
-3. Entregamos software funcional frecuentemente, entre dos semans y dos meses, de preferencia al menor tiempo posible.
+3. Entregamos software funcional frecuentemente, entre dos semanas y dos meses, de preferencia al menor tiempo posible.
 
 4. Los responsables del negocio y los desarrolladores deben trabajar juntos de forma cotidiana durante todo el proyecto.
 
 5. Los proyectos se desarrollan en torno a individuos motivados. Hay que darles el entorno y el apoyo que necesitan, y confiarles
    la ejecución del trabajo.
 
-6. El método más eficiente y efectivo de comunicar informacion al equipo de desarrollo y entre sus miembros es la conversación cara a cara.
+6. El método más eficiente y efectivo de comunicar información al equipo de desarrollo y entre sus miembros es la conversación cara a cara.
 
 7. El software funcionando es la medida principal del progreso.
 
@@ -29,7 +29,8 @@ El manifiesto Ágil está compuesto por 12 principios:
 
 11. Las mejores arquitecturas, requisitos y diseños emergen de equipos auto-organizados.
 
-12. A intervalos regulares el equipo reflexiona sobre cómo ser mas eficaz para despues ajustar y perfeccionar su comportamiento según corresponda.
+12. A intervalos regulares el equipo reflexiona sobre cómo ser más eficaz para después ajustar y perfeccionar su comportamiento según corresponda.
+
 
 
 #### [__Siguiente (Módulo 2)__](../module2/01_module2.md)
